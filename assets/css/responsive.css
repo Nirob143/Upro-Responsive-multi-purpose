@@ -1,0 +1,121 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+.single-service1 {
+	margin-bottom: -60px;
+}
+
+}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ 
+.slider-content h1 {
+	font-size: 45px;
+}
+.about-bottom a {
+	right: -100px;
+	bottom: 61%;
+}
+.about-bottom img {
+	margin-top: -67%;
+}
+.section-title h1 {
+	font-size: 45px;
+}
+.single-service h3 {
+	font-size: 18px;
+}
+.single-service p {
+	font-size: 14px;
+}
+.single-service a {
+	font-size: 17px;
+}
+.isotope-area{
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+.portfolio-overly h4 {
+	font-size: 24px;
+	margin-bottom: 6px;
+}
+.news-block h4 {
+	font-size: 16px;
+}
+.single-footer {
+	margin-bottom: 40px;
+}
+.content a {
+	top: 147px; 
+}
+.single-blog {
+	margin-bottom: 36px;
+}
+.single-counter {
+	margin-bottom: 35px;
+}
+.owl-dots button {
+	margin-right: 0;
+}
+
+
+
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.section-title h1 {
+	font-size: 35px;
+}
+.slider-content h1 {
+	font-size: 25px;
+}
+.slider-content span::before {
+	display: none;
+}
+.slider-content span::after {
+	display: none;
+}
+ .another-btn {
+	border-radius: 8px;
+}
+.owl-dots button {
+	margin-right: -24px
+}  
+.slider-content a {
+	margin-right: 20px;
+	text-decoration: none;
+	margin-bottom: 22px;
+}
+.single-service {
+	text-align: center;
+}
+.section-title p {
+	font-size: 17px;
+}
+.portfolio-menu li {
+	padding: 1px 10px;
+}
+.content a {
+	display: none;
+}
+.content h4 {
+	font-size: 18px;
+}
+.single-footer{
+	margin-bottom: 20px;
+}
+.single-footer1{
+	margin-bottom: 20px;
+}
+.single-footer2{
+	margin-bottom: 20px;
+}
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	
+}
